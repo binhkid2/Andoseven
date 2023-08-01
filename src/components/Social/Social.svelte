@@ -1,0 +1,52 @@
+ 
+        <div class="2xl:container 2xl:mx-auto md:py-12 lg:px-20 md:px-6 py-9 px-4">
+            <div class="text-center">
+                <h2 class="font-semibold dark:text-white lg:text-4xl text-3xl lg:leading-9 md:leading-7 leading-9 text-gray-800 md:w-full w-9/12 mx-auto">Facebook Fanpage</h2>
+                <p class="font-normal text-base leading-6 dark:text-gray-400 text-gray-600 mt-4 lg:w-5/12 md:w-9/12 mx-auto">Follow chúng tôi ngay @<span class="underline cursor-pointer">followus</span> để nhận tin tức khuyến mại và hơn nữa</p>
+            </div>
+            <div class="grid lg:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:grap-8 md:gap-6 gap-4 mt-10">
+                <div class="relative group">
+                    <a href="https://www.facebook.com/tbngocty">
+                    <!-- svelte-ignore a11y-img-redundant-alt -->
+                    <img src="https://res.cloudinary.com/binkk/image/upload/v1685249677/ando-facbook4_lybwas.jpg" alt="A picture of a sitting dog" class="lg:block hidden w-full" />
+                    <!-- svelte-ignore a11y-img-redundant-alt -->
+                    <img src="https://res.cloudinary.com/binkk/image/upload/v1685249677/ando-facbook4_lybwas.jpg" alt="A picture of a sitting dog" class="lg:hidden block w-full" />
+                    <div class="flex justify-center items-center opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full"></div>
+                    <div class="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
+                        <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg" alt="facebook ando">
+                    </div>
+                </a>
+                </div>
+                <div class="relative group">
+                    <a href="https://www.facebook.com/tbngocty">
+                    <img src="https://res.cloudinary.com/binkk/image/upload/v1685253945/ando-facbook3_bog5wj.jpg" alt="Ando" class="lg:block hidden w-full" />
+                    <img src="https://res.cloudinary.com/binkk/image/upload/v1685253945/ando-facbook3_bog5wj.jpg" alt="Ando" class="lg:hidden block w-full" />
+                    <div class="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full"></div>
+                    <div class="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
+                        <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg" alt="facebook ando">
+                    </div>
+                    </a>
+                </div>
+                <div class="relative group">
+                    <a href="https://www.facebook.com/tbngocty">
+                    <img src="https://res.cloudinary.com/binkk/image/upload/v1685249677/ando-facbook2_p4vjbr.jpg" alt="Ando" class="lg:block hidden w-full" />
+                    <img src="https://res.cloudinary.com/binkk/image/upload/v1685249677/ando-facbook2_p4vjbr.jpg" alt="Ando" class="lg:hidden block w-full" />
+                    <div class="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full"></div>
+                    <div class="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
+                        <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg" alt="facebook ando">
+                    </div>
+                    </a>
+                </div>
+                <div class="relative group">
+                  <a href="https://www.facebook.com/tbngocty"> 
+                    <img src="https://res.cloudinary.com/binkk/image/upload/v1685250885/hoanam_kofkoc.jpg" alt="2 puppies" class="lg:block hidden w-full" />
+                    <img src="https://res.cloudinary.com/binkk/image/upload/v1685250885/hoanam_kofkoc.jpg" alt="2 puppies" class="lg:hidden block w-full" />
+                    <div class="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full"></div>
+                    <div class="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
+                        <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/social-1-svg1.svg" alt="facebook ando">
+                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    
